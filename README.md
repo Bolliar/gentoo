@@ -1,2 +1,2 @@
 # gentoo
-my gentoo configs, nothing interesting look at, really
+my gentoo configs, nothing interesting to look at, really.

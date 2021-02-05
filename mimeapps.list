@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-G2MDX0.desktop;
+x-scheme-handler/magnet=torrent.desktop;
+application/x-bittorrent=torrent.desktop;
+application/text=vim
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-G2MDX0.desktop;
