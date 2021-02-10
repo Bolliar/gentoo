@@ -1,0 +1,1 @@
+cmd_sound/soc/intel/atom/built-in.a := rm -f sound/soc/intel/atom/built-in.a; ar cDPrST sound/soc/intel/atom/built-in.a sound/soc/intel/atom/sst-mfld-platform-pcm.o sound/soc/intel/atom/sst-mfld-platform-compress.o sound/soc/intel/atom/sst-atom-controls.o sound/soc/intel/atom/sst/built-in.a

@@ -1,0 +1,42 @@
+!<thin>
+//                                              454       `
+mc/mc-device.o/
+mc/mc-devnode.o/
+mc/mc-entity.o/
+mc/mc-request.o/
+mc/mc-dev-allocator.o/
+v4l2-core/v4l2-dev.o/
+v4l2-core/v4l2-ioctl.o/
+v4l2-core/v4l2-device.o/
+v4l2-core/v4l2-fh.o/
+v4l2-core/v4l2-event.o/
+v4l2-core/v4l2-ctrls.o/
+v4l2-core/v4l2-subdev.o/
+v4l2-core/v4l2-clk.o/
+v4l2-core/v4l2-async.o/
+v4l2-core/v4l2-common.o/
+v4l2-core/v4l2-compat-ioctl32.o/
+v4l2-core/v4l2-trace.o/
+v4l2-core/v4l2-mc.o/
+v4l2-core/v4l2-i2c.o/
+v4l2-core/v4l2-dv-timings.o/
+/0              0           0     0     644     27744     `
+/16             0           0     0     644     12512     `
+/33             0           0     0     644     38568     `
+/49             0           0     0     644     23344     `
+/66             0           0     0     644     6680      `
+/89             0           0     0     644     37104     `
+/111            0           0     0     644     120952    `
+/135            0           0     0     644     14776     `
+/160            0           0     0     644     9032      `
+/181            0           0     0     644     17672     `
+/205            0           0     0     644     153712    `
+/229            0           0     0     644     15920     `
+/254            0           0     0     644     18184     `
+/276            0           0     0     644     30048     `
+/300            0           0     0     644     14784     `
+/325            0           0     0     644     34760     `
+/358            0           0     0     644     47864     `
+/382            0           0     0     644     21520     `
+/403            0           0     0     644     8944      `
+/425            0           0     0     644     41504     `

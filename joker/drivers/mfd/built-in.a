@@ -1,0 +1,11 @@
+!<thin>
+//                                              64        `
+mfd-core.o/
+intel-lpss.o/
+intel-lpss-pci.o/
+intel-lpss-acpi.o/
+
+/0              0           0     0     644     13144     `
+/12             0           0     0     644     15736     `
+/26             0           0     0     644     21456     `
+/44             0           0     0     644     9016      `

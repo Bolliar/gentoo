@@ -1,0 +1,36 @@
+!<thin>
+//                                              232       `
+elan_i2c_core.o/
+elan_i2c_i2c.o/
+gpio_mouse.o/
+psmouse-base.o/
+synaptics.o/
+focaltech.o/
+alps.o/
+byd.o/
+elantech.o/
+logips2pp.o/
+lifebook.o/
+sentelic.o/
+trackpoint.o/
+touchkit_ps2.o/
+cypress_ps2.o/
+psmouse-smbus.o/
+synaptics_i2c.o/
+/0              0           0     0     644     35640     `
+/17             0           0     0     644     26984     `
+/33             0           0     0     644     8416      `
+/47             0           0     0     644     55968     `
+/63             0           0     0     644     44600     `
+/76             0           0     0     644     9440      `
+/89             0           0     0     644     63008     `
+/97             0           0     0     644     8536      `
+/104            0           0     0     644     48728     `
+/116            0           0     0     644     9816      `
+/129            0           0     0     644     13768     `
+/141            0           0     0     644     25528     `
+/153            0           0     0     644     19168     `
+/167            0           0     0     644     2896      `
+/183            0           0     0     644     13072     `
+/198            0           0     0     644     9312      `
+/215            0           0     0     644     16384     `

@@ -1,0 +1,24 @@
+!<thin>
+//                                              174       `
+ishtp/init.o/
+ishtp/hbm.o/
+ishtp/client.o/
+ishtp/bus.o/
+ishtp/dma-if.o/
+ishtp/client-buffers.o/
+ipc/ipc.o/
+ipc/pci-ish.o/
+ishtp-hid.o/
+ishtp-hid-client.o/
+ishtp-fw-loader.o/
+/0              0           0     0     644     5160      `
+/14             0           0     0     644     25840     `
+/27             0           0     0     644     38144     `
+/43             0           0     0     644     29000     `
+/56             0           0     0     644     4888      `
+/72             0           0     0     644     10768     `
+/96             0           0     0     644     17512     `
+/107            0           0     0     644     20016     `
+/122            0           0     0     644     9784      `
+/135            0           0     0     644     25664     `
+/155            0           0     0     644     21080     `

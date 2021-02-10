@@ -1,0 +1,22 @@
+!<thin>
+//                                              194       `
+sst-mfld-platform-pcm.o/
+sst-mfld-platform-compress.o/
+sst-atom-controls.o/
+sst/sst.o/
+sst/sst_ipc.o/
+sst/sst_stream.o/
+sst/sst_drv_interface.o/
+sst/sst_loader.o/
+sst/sst_pvt.o/
+sst/sst_acpi.o/
+/0              0           0     0     644     28248     `
+/25             0           0     0     644     8200      `
+/55             0           0     0     644     118288    `
+/76             0           0     0     644     21984     `
+/87             0           0     0     644     11128     `
+/102            0           0     0     644     12320     `
+/120            0           0     0     644     19312     `
+/145            0           0     0     644     9272      `
+/163            0           0     0     644     13552     `
+/178            0           0     0     644     12120     `

@@ -1,0 +1,57 @@
+!<thin>
+//                                              810       `
+common/sst-dsp.o/
+common/sst-ipc.o/
+common/soc-acpi-intel-byt-match.o/
+common/soc-acpi-intel-cht-match.o/
+common/soc-acpi-intel-hsw-bdw-match.o/
+common/soc-acpi-intel-skl-match.o/
+common/soc-acpi-intel-kbl-match.o/
+common/soc-acpi-intel-bxt-match.o/
+common/soc-acpi-intel-glk-match.o/
+common/soc-acpi-intel-cnl-match.o/
+common/soc-acpi-intel-cfl-match.o/
+common/soc-acpi-intel-cml-match.o/
+common/soc-acpi-intel-icl-match.o/
+common/soc-acpi-intel-tgl-match.o/
+common/soc-acpi-intel-ehl-match.o/
+common/soc-acpi-intel-jsl-match.o/
+common/soc-acpi-intel-hda-match.o/
+atom/sst-mfld-platform-pcm.o/
+atom/sst-mfld-platform-compress.o/
+atom/sst-atom-controls.o/
+atom/sst/sst.o/
+atom/sst/sst_ipc.o/
+atom/sst/sst_stream.o/
+atom/sst/sst_drv_interface.o/
+atom/sst/sst_loader.o/
+atom/sst/sst_pvt.o/
+atom/sst/sst_acpi.o/
+
+/0              0           0     0     644     47312     `
+/18             0           0     0     644     13720     `
+/36             0           0     0     644     10656     `
+/71             0           0     0     644     9176      `
+/106            0           0     0     644     4792      `
+/145            0           0     0     644     3528      `
+/180            0           0     0     644     6016      `
+/215            0           0     0     644     5528      `
+/250            0           0     0     644     3672      `
+/285            0           0     0     644     4480      `
+/320            0           0     0     644     3016      `
+/355            0           0     0     644     8512      `
+/390            0           0     0     644     6448      `
+/425            0           0     0     644     9984      `
+/460            0           0     0     644     2872      `
+/495            0           0     0     644     4032      `
+/530            0           0     0     644     2912      `
+/565            0           0     0     644     28248     `
+/595            0           0     0     644     8200      `
+/630            0           0     0     644     118288    `
+/656            0           0     0     644     21984     `
+/672            0           0     0     644     11128     `
+/692            0           0     0     644     12320     `
+/715            0           0     0     644     19312     `
+/745            0           0     0     644     9272      `
+/768            0           0     0     644     13552     `
+/788            0           0     0     644     12120     `
