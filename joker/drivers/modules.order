@@ -1,5 +1,0 @@
-drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
-drivers/net/wireless/intel/iwlwifi/dvm/iwldvm.ko
-drivers/net/wireless/intel/iwlwifi/mvm/iwlmvm.ko
-drivers/thermal/intel/x86_pkg_temp_thermal.ko
-drivers/hid/i2c-hid/i2c-hid.ko

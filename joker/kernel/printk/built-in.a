@@ -1,8 +1,0 @@
-!<thin>
-//                                              46        `
-printk.o/
-printk_safe.o/
-printk_ringbuffer.o/
-/0              0           0     0     644     1025512   `
-/10             0           0     0     644     26144     `
-/25             0           0     0     644     15168     `
