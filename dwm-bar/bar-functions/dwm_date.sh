@@ -8,7 +8,8 @@
 dwm_date () {
     printf "%s" "$SEP1"
     if [ "$IDENTIFIER" = "unicode" ]; then
-        printf "📆 %s" "$(date "+%a %d-%m-%y %T")"
+						printf "📆 %s" "$(date "+%a %d-%m-%y | Moscow: %H:%M |") $(TZ='Asia/Vladivostok' date "+Vladivostok: %H:%M")"
+
     else
         printf "DAT %s" "$(date "+%a %d-%m-%y %T")"
     fi
